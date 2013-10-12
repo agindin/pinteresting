@@ -80,6 +80,6 @@ Pinteresting::Application.configure do
 
   #required for Heroku
   #pointed to live server
-  config.action_mailer.default_url_options = { :host => 'novudu.com'
+  config.action_mailer.default_url_options = { :host => 'novudu.com'}
 
 end
